@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "dhk.h"
 
 /**
  *childcommand - runs a line of code 5 times
